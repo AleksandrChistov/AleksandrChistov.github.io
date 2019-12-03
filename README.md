@@ -1,7 +1,7 @@
 # My portfolio
 
 <h2>1. Hotel</h2>
-<p>Webpack, Pug, Stylus, БЭМ, jQuery, Адаптивная верстка, PerfectPixel.</p>
+<p>Webpack, Pug, Stylus, БЭМ, jQuery, Адаптивная (Responsive) верстка, PerfectPixel.</p>
 
 <h3>Demo</h3>
 <p>Home page: <a href="https://aleksandrchistov.github.io/hotel-app/" target="_blank" el= "noopener">https://aleksandrchistov.github.io/hotel-app/</a></p>
@@ -25,3 +25,9 @@
 
 <h3>Demo</h3>
 <p>Page Room details: <a href="https://aleksandrchistov.ru/portfolio/" target="_blank" el= "noopener">https://aleksandrchistov.ru/portfolio/</a></p>
+
+<h2>5. News day - статичный новостной сайт</h2>
+<p>HTML, CSS, адаптивная верстка</p>
+
+<h3>Demo</h3>
+<p>Page Room details: <a href="https://aleksandrchistov.github.io/news-day/" target="_blank" el= "noopener">https://aleksandrchistov.github.io/news-day/</a></p>

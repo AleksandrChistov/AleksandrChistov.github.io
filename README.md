@@ -8,42 +8,48 @@
 <p>Page Search room: <a href="https://aleksandrchistov.github.io/hotel-app/search-room/" target="_blank" el= "noopener">https://aleksandrchistov.github.io/hotel-app/search-room/</a></p>
 <p>Page Room details: <a href="https://aleksandrchistov.github.io/hotel-app/room-details/" target="_blank" el= "noopener">https://aleksandrchistov.github.io/hotel-app/room-details/</a></p>
 
-<h2>2. Openeyes - SPA приложение для просмотра фотографий</h2>
+<h2>2. React catalog - SPA приложение с CRUD операциями</h2>
+<p>React, SCSS.</p>
+
+<h3>Demo</h3>
+<p>Page: <a href="https://react-catalog-d5521.web.app/" target="_blank" el= "noopener">https://react-catalog-d5521.web.app/</a></p>
+
+<h2>3. Openeyes - SPA приложение для просмотра фотографий</h2>
 <p>Webpack, Stylus, Babel. React, Redux, react-router-dom - для создания SPA. Задействовал LocalStorage. Картинки подтягиваются по API с сайта unsplash.com.</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://openeyes-6b8fd.web.app" target="_blank" el= "noopener">https://openeyes-6b8fd.web.app</a></p>
 
-<h2>3. Films - SPA приложение для поиска фильмов</h2>
+<h2>4. Films - SPA приложение для поиска фильмов</h2>
 <p>Angular 8, Typescript, Stylus, БЭМ, API The Movie DB.</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://opeyes.ru/" target="_blank" el= "noopener">https://opeyes.ru/</a></p>
 
-<h2>4. Portfolio - одностраничный сайт (Landing page)</h2>
+<h2>5. Portfolio - одностраничный сайт (Landing page)</h2>
 <p>Gulp, Stylus, Flexbox, БЭМ, рисунок в SVG, webp, JQuery, плагин Siema на ванильке JS.</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.ru/portfolio/" target="_blank" el= "noopener">https://aleksandrchistov.ru/portfolio/</a></p>
 
-<h2>5. Калькулятор на React + Redux</h2>
+<h2>6. Калькулятор на React + Redux</h2>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.ru/calc/" target="_blank" el= "noopener">https://aleksandrchistov.ru/calc/</a></p>
 
-<h2>6. Виджет комментариев</h2>
+<h2>7. Виджет комментариев</h2>
 <p>React.js</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.ru/widget-comments/" target="_blank" el= "noopener">https://aleksandrchistov.ru/widget-comments/</a></p>
 
-<h2>7. News day - статичный новостной сайт</h2>
+<h2>8. News day - статичный новостной сайт</h2>
 <p>HTML, CSS, адаптивная верстка</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.github.io/news-day/" target="_blank" el= "noopener">https://aleksandrchistov.github.io/news-day/</a></p>
 
-<h2>8. To-do List - форма для добавления списка дел</h2>
+<h2>9. To-do List - форма для добавления списка дел</h2>
 <p>HTML, CSS, JQuery</p>
 
 <h3>Demo</h3>

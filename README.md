@@ -33,6 +33,7 @@
 <p>Page: <a href="https://aleksandrchistov.ru/portfolio/" target="_blank" el= "noopener">https://aleksandrchistov.ru/portfolio/</a></p>
 
 <h2>6. Interior - многостраничный сайт</h2>
+<p>HTML, CSS. Валидная, кроссбраузерная верстка.</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://interior-2e9af.web.app/" target="_blank" el= "noopener">https://interior-2e9af.web.app/</a></p>

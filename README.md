@@ -32,24 +32,29 @@
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.ru/portfolio/" target="_blank" el= "noopener">https://aleksandrchistov.ru/portfolio/</a></p>
 
-<h2>6. Калькулятор на React + Redux</h2>
+<h2>6. Interior - многостраничный сайт</h2>
+
+<h3>Demo</h3>
+<p>Page: <a href="https://interior-2e9af.web.app/" target="_blank" el= "noopener">https://interior-2e9af.web.app/</a></p>
+
+<h2>7. Калькулятор на React + Redux</h2>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.ru/calc/" target="_blank" el= "noopener">https://aleksandrchistov.ru/calc/</a></p>
 
-<h2>7. Виджет комментариев</h2>
+<h2>8. Виджет комментариев</h2>
 <p>React.js</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.ru/widget-comments/" target="_blank" el= "noopener">https://aleksandrchistov.ru/widget-comments/</a></p>
 
-<h2>8. News day - статичный новостной сайт</h2>
+<h2>9. News day - статичный новостной сайт</h2>
 <p>HTML, CSS, адаптивная верстка</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.github.io/news-day/" target="_blank" el= "noopener">https://aleksandrchistov.github.io/news-day/</a></p>
 
-<h2>9. To-do List - форма для добавления списка дел</h2>
+<h2>10. To-do List - форма для добавления списка дел</h2>
 <p>HTML, CSS, JQuery</p>
 
 <h3>Demo</h3>

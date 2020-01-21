@@ -42,7 +42,7 @@
 <p>HTML, Stylus, сборщик Gulp, валидная и адаптивная верстка.</p>
 
 <h3>Demo</h3>
-<p>Page: <a href="https://home-owd.web.app/" target="_blank" el= "noopener">https://home-owd.web.app/</a></p
+<p>Page: <a href="https://home-owd.web.app/" target="_blank" el= "noopener">https://home-owd.web.app/</a></p>
 
 <h2>8. Interior - многостраничный сайт</h2>
 <p>HTML, CSS. Валидная, кроссбраузерная верстка.</p>

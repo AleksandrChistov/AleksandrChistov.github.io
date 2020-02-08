@@ -127,13 +127,10 @@ body {
 }
 
 .pluses-product-list__item {
-  flex-basis: 50%;
-  -ms-flex-preferred-size: 50%;
+  max-width: 50%;
   margin-bottom: 26px;
-  padding-right: 20px;
-  display: flex;
-  display: -webkit-box;
-  display: -ms-flexbox;
+  padding: 0 20px 0 40px;
+  position: relative;
 }
 
 .pluses-product-list__item:hover.pluses-product-list__item:before {
@@ -147,9 +144,10 @@ body {
   content: '';
   min-width: 32px;
   height: 32px;
-  margin-right: 10px;
-  margin-top: 5px;
   background: url('img/plus_icon.png') center no-repeat #445161;
+  position: absolute;
+  top: 5px;
+  left: 0;
   display: block;
 }
 

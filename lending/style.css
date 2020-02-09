@@ -629,6 +629,8 @@ body {
   }
   .about-product-video-wrap {
     min-width: 100%;
+    width: 469px;
+    max-width: 100%;
   }
   .about-product__video {
     height: auto;

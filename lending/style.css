@@ -108,8 +108,12 @@ body {
   margin-top: 11px;
 }
 
-.about-product__video {
+.about-product-video-wrap {
   width: 430px;
+}
+
+.about-product__video {
+  width: 100%;
   height: 245px;
   display: block;
 }

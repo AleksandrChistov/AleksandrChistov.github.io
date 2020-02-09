@@ -66,6 +66,7 @@ body {
   height: 214px;
   position: relative;
   animation: slideImg 2.5s ease 1;
+  -webkit-animation: slideImg 2.5s ease 1;
 }
 
 @keyframes slideImg {

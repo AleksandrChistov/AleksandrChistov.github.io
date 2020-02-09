@@ -630,8 +630,6 @@ body {
     min-width: auto;
   }
   .about-product__video {
-    width: 469px;
-    max-width: 100%;
     height: auto;
   }
   .about-product__description {

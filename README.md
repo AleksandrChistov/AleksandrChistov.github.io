@@ -32,42 +32,48 @@
 <h3>Demo</h3>
 <p>Page: <a href="https://opeyes.ru/" target="_blank" el= "noopener">https://opeyes.ru/</a></p>
 
-<h2>6. Portfolio - одностраничный сайт (Landing page)</h2>
+<h2>6. HTML5 and CSS3 - Lending Page</h2>
+<p>Кроссбраузерная, валидная, адаптивная верстка с использованием HTML5 и CSS3.</p>
+
+<h3>Demo</h3>
+<p>Page: <a href="https://aleksandrchistov.github.io/lending/" target="_blank" el= "noopener">https://aleksandrchistov.github.io/lending/</a></p>
+
+<h2>7. Portfolio - одностраничный сайт (Landing page)</h2>
 <p>Gulp, Stylus, Flexbox, БЭМ, рисунок в SVG, webp, JQuery, плагин Siema на ванильке JS.</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.ru/portfolio/" target="_blank" el= "noopener">https://aleksandrchistov.ru/portfolio/</a></p>
 
-<h2>7. Home OWD - одностраничный сайт (lending)</h2>
+<h2>8. Home OWD - одностраничный сайт (lending)</h2>
 <p>HTML, Stylus, сборщик Gulp, валидная и адаптивная верстка.</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://home-owd.web.app/" target="_blank" el= "noopener">https://home-owd.web.app/</a></p>
 
-<h2>8. Interior - многостраничный сайт</h2>
+<h2>9. Interior - многостраничный сайт</h2>
 <p>HTML, CSS. Валидная, кроссбраузерная верстка.</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://interior-2e9af.web.app/" target="_blank" el= "noopener">https://interior-2e9af.web.app/</a></p>
 
-<h2>9. Калькулятор на React + Redux</h2>
+<h2>10. Калькулятор на React + Redux</h2>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.ru/calc/" target="_blank" el= "noopener">https://aleksandrchistov.ru/calc/</a></p>
 
-<h2>10. Виджет комментариев</h2>
+<h2>11. Виджет комментариев</h2>
 <p>React.js</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.ru/widget-comments/" target="_blank" el= "noopener">https://aleksandrchistov.ru/widget-comments/</a></p>
 
-<h2>11. News day - статичный новостной сайт</h2>
+<h2>12. News day - статичный новостной сайт</h2>
 <p>HTML, CSS, адаптивная верстка</p>
 
 <h3>Demo</h3>
 <p>Page: <a href="https://aleksandrchistov.github.io/news-day/" target="_blank" el= "noopener">https://aleksandrchistov.github.io/news-day/</a></p>
 
-<h2>12. To-do List - форма для добавления списка дел</h2>
+<h2>13. To-do List - форма для добавления списка дел</h2>
 <p>HTML, CSS, JQuery</p>
 
 <h3>Demo</h3>

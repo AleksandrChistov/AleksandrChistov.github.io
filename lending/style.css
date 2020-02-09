@@ -109,7 +109,7 @@ body {
 }
 
 .about-product-video-wrap {
-  width: 430px;
+  min-width: 430px;
 }
 
 .about-product__video {
@@ -625,6 +625,9 @@ body {
   .about-product-text-wrap {
     max-width: 469px;
     margin-right: 0;
+  }
+  .about-product-video-wrap {
+    min-width: auto;
   }
   .about-product__video {
     width: 469px;

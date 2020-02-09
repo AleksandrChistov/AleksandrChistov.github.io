@@ -146,7 +146,6 @@ body {
 .pluses-product-list__item {
   flex-basis: 50%;
   -webkit-flex-basis: 50%;
-  /* -ms-flex-preferred-size: 50%; */
   margin-bottom: 26px;
   padding-right: 20px;
   display: flex;
@@ -193,7 +192,6 @@ body {
 .scrinshots-item-wrap {
   flex-basis: 50%;
   -webkit-flex-basis: 50%;
-  /* -ms-flex-preferred-size: 50%; */
   margin-top: 31px;
   padding-right: 15px;
   display: flex;
@@ -258,7 +256,6 @@ body {
 .reviews-item-wrap {
   flex-basis: 49%;
   -webkit-flex-basis: 49%;
-  /* -ms-flex-preferred-size: 49%; */
   margin-top: 22px;
   display: flex;
   display: -ms-flexbox;
@@ -648,7 +645,6 @@ body {
   .scrinshots-item-wrap {
     flex-basis: 100%;
     -webkit-flex-basis: 100%;
-    /* -ms-flex-preferred-size: 100%; */
     max-width: 469px;
     padding-right: 0;
     text-align: justify;
@@ -661,7 +657,6 @@ body {
     max-width: 469px;
     flex-basis: 100%;
     -webkit-flex-basis: 100%;
-    /* -ms-flex-preferred-size: 100%; */
   }
   .buy-package:nth-child(2) {
     margin: 30px 0;

@@ -27,9 +27,9 @@ body {
   background-color: #445162;
   color: #fff;
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
   justify-content: space-between;
   -webkit-justify-content: space-between;
   -webkit-box-pack: justify;
@@ -85,9 +85,9 @@ body {
 .about-product {
   padding: 50px;
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
   justify-content: space-between;
   -webkit-justify-content: space-between;
   -webkit-box-pack: justify;
@@ -131,9 +131,9 @@ body {
   margin-bottom: -28px;
   list-style-type: none;
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
   justify-content: space-between;
   -webkit-justify-content: space-between;
   -webkit-box-pack: justify;
@@ -146,13 +146,13 @@ body {
 .pluses-product-list__item {
   flex-basis: 50%;
   -webkit-flex-basis: 50%;
-  -ms-flex-preferred-size: 50%;
+  /* -ms-flex-preferred-size: 50%; */
   margin-bottom: 26px;
   padding-right: 20px;
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
 }
 
 .pluses-product-list__item:hover.pluses-product-list__item:before {
@@ -178,9 +178,9 @@ body {
 
 .scrinshots-content-wrap {
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
   justify-content: space-between;
   -webkit-justify-content: space-between;
   -webkit-box-pack: justify;
@@ -193,13 +193,13 @@ body {
 .scrinshots-item-wrap {
   flex-basis: 50%;
   -webkit-flex-basis: 50%;
-  -ms-flex-preferred-size: 50%;
+  /* -ms-flex-preferred-size: 50%; */
   margin-top: 31px;
   padding-right: 15px;
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
 }
 
 .scrinshots-image-wrap {
@@ -243,9 +243,9 @@ body {
 
 .reviews-content-wrap {
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
   justify-content: space-between;
   -webkit-justify-content: space-between;
   -webkit-box-pack: justify;
@@ -260,9 +260,9 @@ body {
   -webkit-flex-basis: 49%;
   margin-top: 22px;
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
 }
 
 .reviews__img {
@@ -321,9 +321,9 @@ body {
   max-width: 990px;
   margin: 0 auto;
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
   justify-content: space-between;
   -webkit-justify-content: space-between;
   -webkit-box-pack: justify;
@@ -416,9 +416,9 @@ body {
   margin: 0 auto;
   padding: 0 50px;
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
   justify-content: space-between;
   -webkit-justify-content: space-between;
   -webkit-box-pack: justify;
@@ -506,9 +506,9 @@ body {
   text-decoration: none;
   color: #fff;
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
   align-items: center;
   -webkit-align-items: center;
   -webkit-box-align: center;
@@ -550,9 +550,9 @@ body {
 .contacts-social-list {
   width: 240px;
   display: flex;
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -webkit-flex;
   justify-content: space-between;
   -webkit-justify-content: space-between;
   -webkit-box-pack: justify;
@@ -612,7 +612,7 @@ body {
     flex-wrap: wrap;
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
-    display: -webkit-flex;
+    /* display: -webkit-flex; */
     justify-content: center;
     -webkit-justify-content: center;
     -webkit-box-pack: center;
@@ -627,7 +627,7 @@ body {
     margin-right: 0;
   }
   .about-product-video-wrap {
-    min-width: auto;
+    min-width: 100%;
   }
   .about-product__video {
     height: auto;
@@ -645,7 +645,7 @@ body {
   .scrinshots-item-wrap {
     flex-basis: 100%;
     -webkit-flex-basis: 100%;
-    -ms-flex-preferred-size: 100%;
+    /* -ms-flex-preferred-size: 100%; */
     max-width: 469px;
     padding-right: 0;
     text-align: justify;
@@ -708,6 +708,9 @@ body {
   }
   .scrinshots-text-wrap {
     max-width: 100%;
+  }
+  .scrinshots__h3 {
+    font-size: 20px;
   }
   .reviews__img {
     margin: 0 auto 15px;

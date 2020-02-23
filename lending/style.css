@@ -113,7 +113,8 @@ body {
 }
 
 .about-product__video {
-  width: 100%;
+  width: 430px;
+  max-width: 100%;
   height: 245px;
   display: block;
 }

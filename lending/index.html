@@ -46,7 +46,7 @@
         </p>
       </div>
       <div class="about-product-video-wrap">
-        <video class="about-product__video" src="#" poster="img/video.jpg"></video>
+        <video class="about-product__video" src="video/owl.mp4" poster="img/owl.jpg" controls></video>
       </div>
     </section>
 
@@ -251,9 +251,12 @@
         <form class="contacts-form" action="#" method="POST">
           <input class="contacts-form__name" type="text" name="name" id="name" placeholder="Your name:">
           <input class="contacts-form__email" type="email" name="email" id="email" placeholder="Your email:" required>
+          <input class="contacts-form__name" type="tel" name="tel" id="tel" placeholder="+7(999)999-99-99" 
+          pattern="\+7\([0-9]{3}\)[0-9]{3}-[0-9]{2}-[0-9]{2}" title="+7(999)999-99-99" required>
           <textarea class="contacts-form__text" name="text" id="text" cols="68" rows="11" 
             placeholder="Your message:" required></textarea>
-          <button class="contacts-form__btn">Send</button>
+          
+          <input type="submit" class="contacts-form__btn" value="Send">
         </form>
         <address class="contacts-address">
           <ul class="contacts-address-list">
